@@ -1,0 +1,14 @@
+flask==1.1.1
+flask-cors==3.0.8
+waitress==1.4.3
+uWSGI==2.0.18
+httpretty==0.9.7
+Cython==0.29.21
+contextlib2==0.6.0.post1
+pycocotools==2.0.2
+matplotlib==3.2.2
+opencv-python==4.4.0.42
+numpy==1.18.5
+tensorflow==2.3.0
+Pillow==7.2.0
+requests==2.23.0
